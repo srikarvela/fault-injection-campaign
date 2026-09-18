@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="524" height="388" font-family="monospace" font-size="11">
+<text x="96" y="20" font-size="14" font-weight="bold">Fault sensitivity — baseline (exploitability 9.1%)</text>
+<text x="113.0" y="48" text-anchor="middle">0</text>
+<text x="147.0" y="48" text-anchor="middle">1</text>
+<text x="181.0" y="48" text-anchor="middle">2</text>
+<text x="215.0" y="48" text-anchor="middle">3</text>
+<text x="249.0" y="48" text-anchor="middle">4</text>
+<text x="283.0" y="48" text-anchor="middle">5</text>
+<text x="317.0" y="48" text-anchor="middle">6</text>
+<text x="351.0" y="48" text-anchor="middle">7</text>
+<text x="385.0" y="48" text-anchor="middle">8</text>
+<text x="419.0" y="48" text-anchor="middle">9</text>
+<text x="453.0" y="48" text-anchor="middle">10</text>
+<text x="487.0" y="48" text-anchor="middle">11</text>
+<text x="300.0" y="348" text-anchor="middle">injection cycle</text>
+<text x="90" y="69.84" text-anchor="end">skip</text>
+<rect x="96" y="54" width="32" height="22" fill="#d1495b"><title>skip @cyc0: exploited</title></rect>
+<rect x="130" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc1: silent</title></rect>
+<rect x="164" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc2: silent</title></rect>
+<rect x="198" y="54" width="32" height="22" fill="#d1495b"><title>skip @cyc3: exploited</title></rect>
+<rect x="232" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc4: silent</title></rect>
+<rect x="266" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc5: silent</title></rect>
+<rect x="300" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc6: silent</title></rect>
+<rect x="334" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc7: silent</title></rect>
+<rect x="368" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc8: silent</title></rect>
+<rect x="402" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc9: silent</title></rect>
+<rect x="436" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc10: silent</title></rect>
+<rect x="470" y="54" width="32" height="22" fill="#2a9d8f"><title>skip @cyc11: silent</title></rect>
+<text x="90" y="93.84" text-anchor="end">pc.bit0</text>
+<rect x="96" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc0: silent</title></rect>
+<rect x="130" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc1: silent</title></rect>
+<rect x="164" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc2: silent</title></rect>
+<rect x="198" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc3: silent</title></rect>
+<rect x="232" y="78" width="32" height="22" fill="#d1495b"><title>pc.bit0 @cyc4: exploited</title></rect>
+<rect x="266" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc5: silent</title></rect>
+<rect x="300" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc6: silent</title></rect>
+<rect x="334" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc7: silent</title></rect>
+<rect x="368" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc8: silent</title></rect>
+<rect x="402" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc9: silent</title></rect>
+<rect x="436" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc10: silent</title></rect>
+<rect x="470" y="78" width="32" height="22" fill="#2a9d8f"><title>pc.bit0 @cyc11: silent</title></rect>
+<text x="90" y="117.84" text-anchor="end">pc.bit1</text>
+<rect x="96" y="102" width="32" height="22" fill="#d1495b"><title>pc.bit1 @cyc0: exploited</title></rect>
+<rect x="130" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc1: silent</title></rect>
+<rect x="164" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc2: silent</title></rect>
+<rect x="198" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc3: silent</title></rect>
+<rect x="232" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc4: silent</title></rect>
+<rect x="266" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc5: silent</title></rect>
+<rect x="300" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc6: silent</title></rect>
+<rect x="334" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc7: silent</title></rect>
+<rect x="368" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc8: silent</title></rect>
+<rect x="402" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc9: silent</title></rect>
+<rect x="436" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc10: silent</title></rect>
+<rect x="470" y="102" width="32" height="22" fill="#2a9d8f"><title>pc.bit1 @cyc11: silent</title></rect>
+<text x="90" y="141.84" text-anchor="end">pc.bit2</text>
+<rect x="96" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc0: silent</title></rect>
+<rect x="130" y="126" width="32" height="22" fill="#d1495b"><title>pc.bit2 @cyc1: exploited</title></rect>
+<rect x="164" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc2: silent</title></rect>
+<rect x="198" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc3: silent</title></rect>
+<rect x="232" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc4: silent</title></rect>
+<rect x="266" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc5: silent</title></rect>
+<rect x="300" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc6: silent</title></rect>
+<rect x="334" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc7: silent</title></rect>
+<rect x="368" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc8: silent</title></rect>
+<rect x="402" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc9: silent</title></rect>
+<rect x="436" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc10: silent</title></rect>
+<rect x="470" y="126" width="32" height="22" fill="#2a9d8f"><title>pc.bit2 @cyc11: silent</title></rect>
+<text x="90" y="165.84" text-anchor="end">pc.bit3</text>
+<rect x="96" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc0: silent</title></rect>
+<rect x="130" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc1: silent</title></rect>
+<rect x="164" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc2: silent</title></rect>
+<rect x="198" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc3: silent</title></rect>
+<rect x="232" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc4: silent</title></rect>
+<rect x="266" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc5: silent</title></rect>
+<rect x="300" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc6: silent</title></rect>
+<rect x="334" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc7: silent</title></rect>
+<rect x="368" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc8: silent</title></rect>
+<rect x="402" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc9: silent</title></rect>
+<rect x="436" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc10: silent</title></rect>
+<rect x="470" y="150" width="32" height="22" fill="#2a9d8f"><title>pc.bit3 @cyc11: silent</title></rect>
+<text x="90" y="189.84" text-anchor="end">rf0.bit0</text>
+<rect x="96" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc0: silent</title></rect>
+<rect x="130" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc1: silent</title></rect>
+<rect x="164" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc2: silent</title></rect>
+<rect x="198" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc3: silent</title></rect>
+<rect x="232" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc4: silent</title></rect>
+<rect x="266" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc5: silent</title></rect>
+<rect x="300" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc6: silent</title></rect>
+<rect x="334" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc7: silent</title></rect>
+<rect x="368" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc8: silent</title></rect>
+<rect x="402" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc9: silent</title></rect>
+<rect x="436" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc10: silent</title></rect>
+<rect x="470" y="174" width="32" height="22" fill="#2a9d8f"><title>rf0.bit0 @cyc11: silent</title></rect>
+<text x="90" y="213.84" text-anchor="end">rf0.bit4</text>
+<rect x="96" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc0: silent</title></rect>
+<rect x="130" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc1: silent</title></rect>
+<rect x="164" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc2: silent</title></rect>
+<rect x="198" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc3: silent</title></rect>
+<rect x="232" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc4: silent</title></rect>
+<rect x="266" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc5: silent</title></rect>
+<rect x="300" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc6: silent</title></rect>
+<rect x="334" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc7: silent</title></rect>
+<rect x="368" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc8: silent</title></rect>
+<rect x="402" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc9: silent</title></rect>
+<rect x="436" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc10: silent</title></rect>
+<rect x="470" y="198" width="32" height="22" fill="#2a9d8f"><title>rf0.bit4 @cyc11: silent</title></rect>
+<text x="90" y="237.84" text-anchor="end">rf0.bit8</text>
+<rect x="96" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc0: silent</title></rect>
+<rect x="130" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc1: silent</title></rect>
+<rect x="164" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc2: silent</title></rect>
+<rect x="198" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc3: silent</title></rect>
+<rect x="232" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc4: silent</title></rect>
+<rect x="266" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc5: silent</title></rect>
+<rect x="300" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc6: silent</title></rect>
+<rect x="334" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc7: silent</title></rect>
+<rect x="368" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc8: silent</title></rect>
+<rect x="402" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc9: silent</title></rect>
+<rect x="436" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc10: silent</title></rect>
+<rect x="470" y="222" width="32" height="22" fill="#2a9d8f"><title>rf0.bit8 @cyc11: silent</title></rect>
+<text x="90" y="261.84" text-anchor="end">rf0.bit12</text>
+<rect x="96" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc0: silent</title></rect>
+<rect x="130" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc1: silent</title></rect>
+<rect x="164" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc2: silent</title></rect>
+<rect x="198" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc3: silent</title></rect>
+<rect x="232" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc4: silent</title></rect>
+<rect x="266" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc5: silent</title></rect>
+<rect x="300" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc6: silent</title></rect>
+<rect x="334" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc7: silent</title></rect>
+<rect x="368" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc8: silent</title></rect>
+<rect x="402" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc9: silent</title></rect>
+<rect x="436" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc10: silent</title></rect>
+<rect x="470" y="246" width="32" height="22" fill="#2a9d8f"><title>rf0.bit12 @cyc11: silent</title></rect>
+<text x="90" y="285.84" text-anchor="end">zero</text>
+<rect x="96" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc0: silent</title></rect>
+<rect x="130" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc1: silent</title></rect>
+<rect x="164" y="270" width="32" height="22" fill="#d1495b"><title>zero @cyc2: exploited</title></rect>
+<rect x="198" y="270" width="32" height="22" fill="#d1495b"><title>zero @cyc3: exploited</title></rect>
+<rect x="232" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc4: silent</title></rect>
+<rect x="266" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc5: silent</title></rect>
+<rect x="300" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc6: silent</title></rect>
+<rect x="334" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc7: silent</title></rect>
+<rect x="368" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc8: silent</title></rect>
+<rect x="402" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc9: silent</title></rect>
+<rect x="436" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc10: silent</title></rect>
+<rect x="470" y="270" width="32" height="22" fill="#2a9d8f"><title>zero @cyc11: silent</title></rect>
+<text x="90" y="309.84" text-anchor="end">ctrl_boot</text>
+<rect x="96" y="294" width="32" height="22" fill="#d1495b"><title>ctrl_boot @cyc0: exploited</title></rect>
+<rect x="130" y="294" width="32" height="22" fill="#d1495b"><title>ctrl_boot @cyc1: exploited</title></rect>
+<rect x="164" y="294" width="32" height="22" fill="#d1495b"><title>ctrl_boot @cyc2: exploited</title></rect>
+<rect x="198" y="294" width="32" height="22" fill="#d1495b"><title>ctrl_boot @cyc3: exploited</title></rect>
+<rect x="232" y="294" width="32" height="22" fill="#d1495b"><title>ctrl_boot @cyc4: exploited</title></rect>
+<rect x="266" y="294" width="32" height="22" fill="#2a9d8f"><title>ctrl_boot @cyc5: silent</title></rect>
+<rect x="300" y="294" width="32" height="22" fill="#2a9d8f"><title>ctrl_boot @cyc6: silent</title></rect>
+<rect x="334" y="294" width="32" height="22" fill="#2a9d8f"><title>ctrl_boot @cyc7: silent</title></rect>
+<rect x="368" y="294" width="32" height="22" fill="#2a9d8f"><title>ctrl_boot @cyc8: silent</title></rect>
+<rect x="402" y="294" width="32" height="22" fill="#2a9d8f"><title>ctrl_boot @cyc9: silent</title></rect>
+<rect x="436" y="294" width="32" height="22" fill="#2a9d8f"><title>ctrl_boot @cyc10: silent</title></rect>
+<rect x="470" y="294" width="32" height="22" fill="#2a9d8f"><title>ctrl_boot @cyc11: silent</title></rect>
+<rect x="96" y="366" width="12" height="12" fill="#d1495b"/>
+<text x="112" y="377">exploited</text>
+<rect x="188" y="366" width="12" height="12" fill="#edae49"/>
+<text x="204" y="377">crash</text>
+<rect x="280" y="366" width="12" height="12" fill="#8d99ae"/>
+<text x="296" y="377">hang</text>
+<rect x="372" y="366" width="12" height="12" fill="#2a9d8f"/>
+<text x="388" y="377">silent</text>
+</svg>

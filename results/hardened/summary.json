@@ -1,0 +1,10 @@
+{
+  "variant": "hardened",
+  "total": 132,
+  "counts": {
+    "silent": 127,
+    "exploited": 5
+  },
+  "exploitability_rate": 0.0379,
+  "exploited": 5
+}

@@ -1,0 +1,10 @@
+{
+  "variant": "baseline",
+  "total": 132,
+  "counts": {
+    "exploited": 12,
+    "silent": 120
+  },
+  "exploitability_rate": 0.0909,
+  "exploited": 12
+}

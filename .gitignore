@@ -1,0 +1,9 @@
+.claude/
+build/
+*.vcd
+*.vvp
+__pycache__/
+*.pyc
+.DS_Store
+# Private planning notes
+docs/ResumeD_Security_Build_Guide.pdf
